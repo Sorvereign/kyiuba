@@ -1,3 +1,5 @@
-.background {
-  background-color: #f4ebff
+.hero {
+  background-image: url("https://i.pinimg.com/originals/15/47/aa/1547aa8f54dd1fb3694abee485c3269a.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
